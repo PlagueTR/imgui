@@ -69,3 +69,8 @@ ImGui.vcxproj
 **.cbp
 **.depend
 **.layout
+
+# CodeLite files
+ImGui.mk
+ImGui.project
+ImGui.txt
